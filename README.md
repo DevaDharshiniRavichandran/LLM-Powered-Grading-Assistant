@@ -1,5 +1,7 @@
 # LLM-Powered Grading Assistant
-
+<p align="center">
+  <img src="quickscore.png" alt="Quickscore" width="600"/>
+</p>
 ## Overview
 
 The LLM-Powered Grading Assistant is an advanced autograding application that transforms traditional educational assessment. By leveraging Retrieval-Augmented Generation (RAG) and Large Language Models (LLMs) such as LLaMA 2, the system offers a scalable, consistent, and intelligent grading solution tailored for modern educators.
